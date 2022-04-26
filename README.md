@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=525&height=45&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg) 
-
+<h3> <img src="https://media4.giphy.com/media/m5KlBaAsGtpvi1EbXW/giphy.gif?cid=ecf05e47s3h3dil33zwej49plu89ajnchhwscvglw4m43ela&rid=giphy.gif" width="40px"> In learning:</h3>
 <h1 align="center"><a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="120"> </a>  
+<a> <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="120"> </a>
+<a> <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"> </a>  
 <a> <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp" width="120"> </a>
 </h1>
-<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Connect with me:</h3>
+<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/kubilay-kaplan-1b3562232/">
   <img alt="Linkedin" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/linkedin.png" /> 
