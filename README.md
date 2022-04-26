@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=525&height=30&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=525&height=45&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg) 
 
 <a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> </a>
