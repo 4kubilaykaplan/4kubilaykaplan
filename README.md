@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=600&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
-<h3 align="left">Connect with me:</h3>
-<br/>
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"> 
+<h3 align="left">Connect with me:</h3> 
 <a href="https://www.linkedin.com/in/kubilay-kaplan-1b3562232/">
-  <img alt="Linkedin" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/linkedin.png" />
+  <img alt="Linkedin" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/linkedin.png" /> 
 </a>
 <a href="https://www.instagram.com/kubilaykaplan__">
   <img alt="Instagram" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/instagram.png" />
@@ -23,6 +27,6 @@
   <img alt="GMail" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/gmail.png" />
 </a>  
 <a href="https://steamcommunity.com/profiles/76561198170997113/">
-  <img alt="Steam" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/steam.png" />
+  <img alt="Steam" width="51px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/steam2.png" />
 </a> 
 <br>
