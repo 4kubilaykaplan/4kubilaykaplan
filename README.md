@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=525&height=45&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg) 
 
-<a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
+<h1 align="center"><a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"> </a>
-</p>
-<h3 align="left">Connect with me:</h3> 
+<a> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"> </a> </h1>
+
+<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/kubilay-kaplan-1b3562232/">
   <img alt="Linkedin" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/linkedin.png" /> 
 
@@ -32,3 +33,15 @@
   <img alt="Steam" width="51px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/steam2.png" />
 </a> 
 <br>
+
+<h3> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50px"> About Some Stats:</h3> 
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kubilaykaplan&layout=compact&show_icon=true&theme=algolia" alt="4kubilaykaplan-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=4kubilaykaplan&layout=compact&show_icon=true&theme=algolia" alt="4kubilaykaplan-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=4kubilaykaplan&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=4kubilaykaplan&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=4kubilaykaplan&theme=react-dark"/> -->
+</div>
+  
