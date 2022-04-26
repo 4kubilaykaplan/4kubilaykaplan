@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2500&width=600&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
-
-<p align="center">
+<h3 align="left">Connect with me:</h3>
 <br/>
 <a href="https://www.linkedin.com/in/kubilay-kaplan-1b3562232/">
   <img alt="Linkedin" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/linkedin.png" />
@@ -24,7 +23,6 @@
   <img alt="GMail" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/gmail.png" />
 </a>  
 <a href="https://steamcommunity.com/profiles/76561198170997113/">
-  <img alt="Steam" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/gmail.png" />
+  <img alt="Steam" width="50px" src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/steam.png" />
 </a> 
 <br>
-</p>
