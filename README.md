@@ -1,17 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4002&width=650&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
 <h3> <img src="https://media3.giphy.com/media/VwpUzkkZRTkEv8N99L/giphy.gif?cid=ecf05e479qaf2hbs52wxfdgo8vye9sfas9euu9g21d7zxwwp&rid=giphy.gif" width="40px"> Interested in what:</h3>
-<h1 align="center"><a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="120"> </a>
-<a> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"> </a>  
-<a> <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp" width="120"> </a>
+<h1 align="center"><a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/js.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/python.gif" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/vs.webp" width="120"" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/android.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/html5.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/css3.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/bootstrap.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/nodejs.gif" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/vs.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/reactjs.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/github.webp" width="120"> </a>  
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/git.webp" width="120"> </a>
 </h1>
 <h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> Connect with me:</h3>
 
