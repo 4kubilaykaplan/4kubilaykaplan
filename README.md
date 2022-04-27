@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4002&width=650&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
-<h3> <img src="https://media3.giphy.com/media/VwpUzkkZRTkEv8N99L/giphy.gif?cid=ecf05e479qaf2hbs52wxfdgo8vye9sfas9euu9g21d7zxwwp&rid=giphy.gif" width="40px"> My Favorites:</h3>
+<h3> <img src="https://media3.giphy.com/media/VwpUzkkZRTkEv8N99L/giphy.gif?cid=ecf05e479qaf2hbs52wxfdgo8vye9sfas9euu9g21d7zxwwp&rid=giphy.gif" width="40px"> Interested in what:</h3>
 <h1 align="center"><a> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> </a>
 <a> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"" width="120"> </a>
