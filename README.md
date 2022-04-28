@@ -8,7 +8,7 @@
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/css3.webp" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/bootstrap.webp" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/nodejs.gif" width="120"> </a>
-<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/vs.webp" width="120"> </a>
+<a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/vuejs.webp" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/reactjs.webp" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/github.webp" width="120"> </a>  
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/git.webp" width="120"> </a>
