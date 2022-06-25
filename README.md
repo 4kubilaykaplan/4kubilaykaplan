@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4002&width=650&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
-<h3> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/lightning.webp" width="40px"> Language and Tools:</h3>
+<h3> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/lightning.webp" width="40px"> Languages and Tools:</h3>
 <h1 align="center"><a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/js.webp" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/python.gif" width="120"> </a>
 <a> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/vs.webp" width="120"" width="120"> </a>
