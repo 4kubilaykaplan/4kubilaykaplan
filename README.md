@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4002&width=650&lines=+Software+Developer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4002&width=650&lines=+Computer+Engineer;Philomath%2C+Epicurean+and+Refined;I'm+interested+in+mobile+and+web+programming)](https://git.io/typing-svg)
 
 </h1>
 <h3> <img src="https://github.com/4kubilaykaplan/4kubilaykaplan/blob/master/icons/label.webp" width="40px"> Connect with me:</h3>
