@@ -3,30 +3,64 @@
     {
       "id": "images",
       "name": "Görseller",
-      "icon": "fa-image",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/685/685655.png",
       "links": [
-        { "name": "Unsplash", "url": "https://unsplash.com", "icon": "fa-camera" },
-        { "name": "Pexels", "url": "https://pexels.com", "icon": "fa-camera" },
-        { "name": "Pixabay", "url": "https://pixabay.com", "icon": "fa-camera" }
+        {
+          "name": "Unsplash",
+          "url": "https://unsplash.com",
+          "iconUrl": "https://unsplash.com/favicon.ico",
+          "description": "Ücretsiz yüksek çözünürlüklü fotoğraflar."
+        },
+        {
+          "name": "Pexels",
+          "url": "https://pexels.com",
+          "iconUrl": "https://pexels.com/favicon.ico",
+          "description": "Telifsiz görsel ve video arşivi."
+        },
+        {
+          "name": "Pixabay",
+          "url": "https://pixabay.com",
+          "iconUrl": "https://pixabay.com/favicon.ico",
+          "description": "Geniş telifsiz medya veritabanı."
+        }
       ]
     },
     {
       "id": "videos",
       "name": "Videolar",
-      "icon": "fa-video",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1161/1161831.png",
       "links": [
-        { "name": "Mixkit", "url": "https://mixkit.co", "icon": "fa-film" },
-        { "name": "Pexels Videos", "url": "https://www.pexels.com/videos", "icon": "fa-film" }
+        {
+          "name": "Mixkit",
+          "url": "https://mixkit.co",
+          "iconUrl": "https://mixkit.co/favicon.ico",
+          "description": "Ücretsiz sinematik video klipler."
+        },
+        {
+          "name": "Videezy",
+          "url": "https://videezy.com",
+          "iconUrl": "https://www.videezy.com/favicon.ico",
+          "description": "Ücretsiz ve premium stok videolar."
+        }
       ]
     },
     {
-      "id": "dev",
-      "name": "Geliştirme",
-      "icon": "fa-code",
+      "id": "fonts",
+      "name": "Yazı Tipleri",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/266/266257.png",
       "links": [
-        { "name": "GitHub", "url": "https://github.com", "icon": "fa-github" },
-        { "name": "Stack Overflow", "url": "https://stackoverflow.com", "icon": "fa-stack-overflow" },
-        { "name": "CodePen", "url": "https://codepen.io", "icon": "fa-codepen" }
+        {
+          "name": "Google Fonts",
+          "url": "https://fonts.google.com",
+          "iconUrl": "https://fonts.google.com/favicon.ico",
+          "description": "Web uyumlu açık kaynak yazı tipleri."
+        },
+        {
+          "name": "DaFont",
+          "url": "https://www.dafont.com",
+          "iconUrl": "https://www.dafont.com/favicon.ico",
+          "description": "Grafik tasarımcılar için özel fontlar."
+        }
       ]
     }
   ]
