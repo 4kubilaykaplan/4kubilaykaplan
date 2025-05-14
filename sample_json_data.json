@@ -1,44 +1,6 @@
 {
   "categories": [
     {
-      "id": "category_1747237322989",
-      "name": "CemsitAga",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": [
-        {
-          "name": "Haurayli",
-          "url": "https://www.instagram.com/",
-          "iconUrl": "https://www.instagram.com/favicon.ico",
-          "description": "AÇIKLAMA YOK ULAN"
-        }
-      ]
-    },
-    {
-      "id": "images",
-      "name": "Görseller",
-      "iconUrl": "https://unsplash.com/favicon.ico",
-      "links": [
-        {
-          "name": "Gerzek",
-          "url": "https://www.youtube.com/watch?v=BtsbNpHwMfU",
-          "iconUrl": "https://www.youtube.com/favicon.ico",
-          "description": ""
-        },
-        {
-          "name": "Unsplash",
-          "url": "https://unsplash.com",
-          "iconUrl": "https://unsplash.com/favicon.ico",
-          "description": "Ücretsiz stok fotoğraflar"
-        },
-        {
-          "name": "Pexels",
-          "url": "https://pexels.com",
-          "iconUrl": "https://pexels.com/favicon.ico",
-          "description": "Yüksek kaliteli stok görseller"
-        }
-      ]
-    },
-    {
       "id": "videos",
       "name": "Videolar",
       "iconUrl": "https://mixkit.co/favicon.ico",
@@ -48,6 +10,32 @@
           "url": "https://mixkit.co",
           "iconUrl": "https://mixkit.co/favicon.ico",
           "description": "Ücretsiz video koleksiyonu"
+        }
+      ]
+    },
+    {
+      "id": "category_1747238634961",
+      "name": "Kategoriyye",
+      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
+      "links": [
+        {
+          "name": "Linkiye",
+          "url": "https://www.instagram.com/",
+          "iconUrl": "https://www.instagram.com/favicon.ico",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "images",
+      "name": "Görseller",
+      "iconUrl": "https://unsplash.com/favicon.ico",
+      "links": [
+        {
+          "name": "Cabbariye.com",
+          "url": "https://www.youtube.com/watch?v=BtsbNpHwMfU",
+          "iconUrl": "https://www.youtube.com/favicon.ico",
+          "description": "hayyo"
         }
       ]
     }
