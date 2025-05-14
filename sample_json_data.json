@@ -1,21 +1,15 @@
 {
   "categories": [
     {
-      "id": "images",
-      "name": "Görseller",
-      "iconUrl": "https://unsplash.com/favicon.ico",
+      "id": "category_1747235976771",
+      "name": "HasanZiver",
+      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
       "links": [
         {
-          "name": "Unsplash",
-          "url": "https://unsplash.com",
-          "iconUrl": "https://unsplash.com/favicon.ico",
-          "description": "Ücretsiz stok fotoğraflar"
-        },
-        {
-          "name": "Pexels",
-          "url": "https://pexels.com",
-          "iconUrl": "https://pexels.com/favicon.ico",
-          "description": "Yüksek kaliteli stok görseller"
+          "name": "X",
+          "url": "https://x.com/home",
+          "iconUrl": "https://x.com/favicon.ico",
+          "description": ""
         }
       ]
     },
@@ -33,79 +27,21 @@
       ]
     },
     {
-      "id": "category_1747230637456",
-      "name": "fefeli",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
+      "id": "images",
+      "name": "Görseller",
+      "iconUrl": "https://unsplash.com/favicon.ico",
       "links": [
         {
-          "name": "Eriim Beniim",
-          "url": "https://outlook.live.com/mail/0/inbox/id/AQMkADAwATNiZmYAZC05NDQAOC04ZDIxLTAwAi0wMAoARgAAAylJsfCYiiVDphlgxSKsQ0cHAKXy%2FbRhd19Kuxj49rtpJz0AAAIBDAAAAKXy%2FbRhd19Kuxj49rtpJz0ACFunI7MAAAA%3D",
-          "iconUrl": "https://outlook.live.com/favicon.ico",
-          "description": "CONİM BENİM"
-        }
-      ]
-    },
-    {
-      "id": "category_1747230660458",
-      "name": "Falafula",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": [
-        {
-          "name": "GErzekçibaşı",
-          "url": "https://www.youtube.com/watch?v=BtsbNpHwMfU",
-          "iconUrl": "https://www.youtube.com/favicon.ico",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "category_1747230672051",
-      "name": "Famburfeyli",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": [
-        {
-          "name": "FUMFUMCU",
-          "url": "https://mail.yahoo.com/d/folders/1",
-          "iconUrl": "https://mail.yahoo.com/favicon.ico",
-          "description": "FUMFUMHANE"
-        }
-      ]
-    },
-    {
-      "id": "category_1747230685420",
-      "name": "Fapfup",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": [
-        {
-          "name": "POSTANE",
-          "url": "https://outlook.live.com/mail/0/inbox/id/AQMkADAwATNiZmYAZC05NDQAOC04ZDIxLTAwAi0wMAoARgAAAylJsfCYiiVDphlgxSKsQ0cHAKXy%2FbRhd19Kuxj49rtpJz0AAAIBDAAAAKXy%2FbRhd19Kuxj49rtpJz0ACFunI7MAAAA%3D",
-          "iconUrl": "https://outlook.live.com/favicon.ico",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "category_1747230762816",
-      "name": "Social",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": [
-        {
-          "name": "Tiktok",
-          "url": "https://www.tiktok.com/tr-TR/",
-          "iconUrl": "https://www.tiktok.com/favicon.ico",
-          "description": "Şu tiktok bey kardeşim budur inan tek dileğim"
+          "name": "Unsplash",
+          "url": "https://unsplash.com",
+          "iconUrl": "https://unsplash.com/favicon.ico",
+          "description": "Ücretsiz stok fotoğraflar"
         },
         {
-          "name": "X",
-          "url": "https://x.com/home",
-          "iconUrl": "https://x.com/favicon.ico",
-          "description": "BUDUR İNAN TEK X İM"
-        },
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/",
-          "iconUrl": "https://www.instagram.com/favicon.ico",
-          "description": ""
+          "name": "Pexels",
+          "url": "https://pexels.com",
+          "iconUrl": "https://pexels.com/favicon.ico",
+          "description": "Yüksek kaliteli stok görseller"
         }
       ]
     }
