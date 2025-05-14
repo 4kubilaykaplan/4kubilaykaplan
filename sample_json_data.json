@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": "images",
+      "name": "Görseller",
+      "icon": "fa-image",
+      "links": [
+        { "name": "Unsplash", "url": "https://unsplash.com", "icon": "fa-camera" },
+        { "name": "Pexels", "url": "https://pexels.com", "icon": "fa-camera" },
+        { "name": "Pixabay", "url": "https://pixabay.com", "icon": "fa-camera" }
+      ]
+    },
+    {
+      "id": "videos",
+      "name": "Videolar",
+      "icon": "fa-video",
+      "links": [
+        { "name": "Mixkit", "url": "https://mixkit.co", "icon": "fa-film" },
+        { "name": "Pexels Videos", "url": "https://www.pexels.com/videos", "icon": "fa-film" }
+      ]
+    },
+    {
+      "id": "dev",
+      "name": "Geliştirme",
+      "icon": "fa-code",
+      "links": [
+        { "name": "GitHub", "url": "https://github.com", "icon": "fa-github" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com", "icon": "fa-stack-overflow" },
+        { "name": "CodePen", "url": "https://codepen.io", "icon": "fa-codepen" }
+      ]
+    }
+  ]
+}
