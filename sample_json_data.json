@@ -1,27 +1,20 @@
 {
   "categories": [
     {
-      "id": "videos",
-      "name": "Videolar",
-      "iconUrl": "https://mixkit.co/favicon.ico",
-      "links": [
-        {
-          "name": "Mixkit",
-          "url": "https://mixkit.co",
-          "iconUrl": "https://mixkit.co/favicon.ico",
-          "description": "Ücretsiz video koleksiyonu"
-        }
-      ]
-    },
-    {
-      "id": "category_1747238634961",
+      "id": "category_1747240939406",
       "name": "Kategoriyye",
       "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
       "links": [
         {
-          "name": "Linkiye",
-          "url": "https://www.instagram.com/",
-          "iconUrl": "https://www.instagram.com/favicon.ico",
+          "name": "2",
+          "url": "https://v3.thestocks.im/stock-photos",
+          "iconUrl": "https://v3.thestocks.im/favicon.ico",
+          "description": "hahu"
+        },
+        {
+          "name": "1",
+          "url": "https://x.com/home",
+          "iconUrl": "https://x.com/favicon.ico",
           "description": ""
         }
       ]
@@ -32,10 +25,10 @@
       "iconUrl": "https://unsplash.com/favicon.ico",
       "links": [
         {
-          "name": "Cabbariye.com",
-          "url": "https://www.youtube.com/watch?v=BtsbNpHwMfU",
-          "iconUrl": "https://www.youtube.com/favicon.ico",
-          "description": "hayyo"
+          "name": "Unsplash",
+          "url": "https://unsplash.com",
+          "iconUrl": "https://unsplash.com/favicon.ico",
+          "description": "Ücretsiz stok fotoğraflar"
         }
       ]
     }
