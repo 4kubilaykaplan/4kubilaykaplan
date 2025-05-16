@@ -1,46 +1,125 @@
 {
   "categories": [
     {
-      "id": "category_1747261088102",
-      "name": "HASAN",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": []
-    },
-    {
-      "id": "category_1747260480893",
-      "name": "NUR",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
+      "id": "category_1747359770492",
+      "name": "Business Model",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/portaldocs.png",
       "links": [
         {
-          "name": "KUBİLAY",
-          "url": "https://www.instagram.com/",
-          "iconUrl": "https://www.instagram.com/favicon.ico",
-          "description": "AHAHAR"
+          "name": "Proje Manifestosu",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.0#heading=h.reydak3c0bze",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
         },
         {
-          "name": "NURRRRLINK",
-          "url": "https://x.com/home",
-          "iconUrl": "https://x.com/favicon.ico",
-          "description": "AHAHAH"
+          "name": "YouTube",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.ltcotkp220f2",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Instagram",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.ncf93hqqqc5j",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Destekleyici Platformlar",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.yt0np82x8345",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Telif Yönetimi",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.qkyt9d3xvbv3",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "YouTube Politikaları",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.yvwfmevvfox2",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Telif ve İçerik Politikası",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.ryxue4uvrw1k",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Kamera ve Video 101",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.jruo3mkm7hii",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Stüdyo",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.e9msrt9d0bzs",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Prodüksiyon",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.mdme5nfgb8z3",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
+        },
+        {
+          "name": "Vergi Yönetimi",
+          "url": "https://docs.google.com/document/d/1Or4b-iaS6Of976rIVb2Jn-IJRagXRN3al4ui26zF9uU/edit?tab=t.bah8prsbfn6h",
+          "iconUrl": "https://docs.google.com/favicon.ico",
+          "description": ""
         }
       ]
     },
     {
-      "id": "category_1747260676253",
-      "name": "kubilay nuru seviyor",
-      "iconUrl": "https://www.freeiconspng.com/uploads/document-icon-19.png",
-      "links": []
-    },
-    {
-      "id": "images",
-      "name": "Görseller",
-      "iconUrl": "https://unsplash.com/favicon.ico",
+      "id": "category_1747361560607",
+      "name": "Portal Arşivi",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/archive.png",
       "links": [
         {
-          "name": "Unsplash",
-          "url": "https://unsplash.com",
-          "iconUrl": "https://unsplash.com/favicon.ico",
-          "description": "Ücretsiz stok fotoğraflar"
+          "name": "Konu Havuzu",
+          "url": "https://onedrive.live.com/personal/5e856f0bc490aa73/_layouts/15/doc2.aspx?sourcedoc=%7Bc490aa73-6f0b-2085-805e-708b00000000%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvcyFBbk9xa01RTGI0VmVncFp3d0xJRzdqMkhCV1RMTWc_ZT1iblNBeDY&slrid=73ea75a1-b07d-b000-1bf1-cee7e9919120&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81ZTg1NmYwYmM0OTBhYTczL1FYT3FrTVFMYjRVZ2dGNXdpd0FBQUFBQXdMSUc3ajJIQldUTE1nP3J0aW1lPWdyNHZadUV3M1Vn&CID=2613d8b7-e2b8-4b2b-9aac-3f0b3763daae&_SRM=0:G:36",
+          "iconUrl": "https://onedrive.live.com/favicon.ico",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "category_1747358748819",
+      "name": "Renkler",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/color.png",
+      "links": [
+        {
+          "name": "Colourcode",
+          "url": "https://www.toptal.com/designers/colourcode",
+          "iconUrl": "https://www.toptal.com/favicon.ico",
+          "description": "İmleç ile canlı önizleme renk tonu seçmeye ve hex kodunu almaya yarar."
+        },
+        {
+          "name": "Duotones",
+          "url": "https://duotones.co/",
+          "iconUrl": "https://duotones.co/favicon.ico",
+          "description": "Yüklenen görsele ikili renk kombinasyonları uygulamayı sağlar."
+        },
+        {
+          "name": "Adobe Color",
+          "url": "https://color.adobe.com/",
+          "iconUrl": "https://color.adobe.com/favicon.ico",
+          "description": "Renk paleti oluşturmayı ve görselden renk paleti ayıklamayı sağlar."
+        },
+        {
+          "name": "Culrs",
+          "url": "https://culrs.com/",
+          "iconUrl": "https://culrs.com/favicon.ico",
+          "description": "Hazır premium renk paletleri sunar."
+        },
+        {
+          "name": "CSS Gradient",
+          "url": "https://cssgradient.io/",
+          "iconUrl": "https://cssgradient.io/favicon.ico",
+          "description": "Gradient geçiş ayarlamayı ve CSS kodlarını almayı sağlar."
         }
       ]
     }
