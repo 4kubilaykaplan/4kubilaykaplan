@@ -122,6 +122,133 @@
           "description": "Gradient geçiş ayarlamayı ve CSS kodlarını almayı sağlar."
         }
       ]
+    },
+    {
+      "id": "category_1748184985575",
+      "name": "Font",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/font.png",
+      "links": [
+        {
+          "name": "Dfonts",
+          "url": "https://www.dfonts.org/",
+          "iconUrl": "https://www.dfonts.org/favicon.ico",
+          "description": "Ücretli fontların full versiyonlarını sunar."
+        },
+        {
+          "name": "Exfont",
+          "url": "https://exfont.com/",
+          "iconUrl": "https://exfont.com/favicon.ico",
+          "description": "Ücretli fontların full versiyonlarını sunar."
+        },
+        {
+          "name": "THE XFONTS",
+          "url": "https://xfonts.pro/",
+          "iconUrl": "https://xfonts.pro/favicon.ico",
+          "description": "Ücretli fontların full versiyonlarını, tüm formatlarıyla sunar."
+        },
+        {
+          "name": "font tr",
+          "url": "https://www.fonttr.com/",
+          "iconUrl": "https://www.fonttr.com/favicon.ico",
+          "description": "Sadece türkçe destekli fontları sunar."
+        },
+        {
+          "name": "Google Fonts",
+          "url": "https://fonts.google.com/",
+          "iconUrl": "https://fonts.google.com/favicon.ico",
+          "description": "Google Font kütüphanesi. Fontlar toplu olarak indirilebilir."
+        },
+        {
+          "name": "befonts",
+          "url": "https://befonts.com/",
+          "iconUrl": "https://befonts.com/favicon.ico",
+          "description": "Ücretli fontların demo, ücretsiz fontların full versiyonlarının sunulduğu ve daha seçici olan bir site."
+        },
+        {
+          "name": "DaFont",
+          "url": "https://www.dafont.com/",
+          "iconUrl": "https://www.dafont.com/favicon.ico",
+          "description": "Ücretli fontların demo, ücretsiz fontların full versiyonlarının bulunduğu çok geniş bir arşiv sunar. Seçici değildir, font kaliteleri değişken."
+        },
+        {
+          "name": "Adobe Fonts",
+          "url": "https://fonts.adobe.com/",
+          "iconUrl": "https://fonts.adobe.com/favicon.ico",
+          "description": "Adobe kütüphanesindeki tüm fontlara ulaşılabilir. Seçkin fontlar tüm formatlarıyla bulunur ancak Adobe üyeliği gerekmektedir."
+        },
+        {
+          "name": "1001 Free Fonts",
+          "url": "https://www.1001freefonts.com/",
+          "iconUrl": "https://www.1001freefonts.com/favicon.ico",
+          "description": "Demo ve full versiyon fontların bulunduğu geniş bir arşiv sunar."
+        },
+        {
+          "name": "FontSpace",
+          "url": "https://www.fontspace.com/",
+          "iconUrl": "https://www.fontspace.com/favicon.ico",
+          "description": "Full ve demo versiyon fontların bulunduğu geniş bir arşiv sunar."
+        },
+        {
+          "name": "FONNTS",
+          "url": "https://fonnts.com/",
+          "iconUrl": "https://fonnts.com/favicon.ico",
+          "description": "Envato veya Adobe'de sunulan bazı fontların full versiyonları bulunur."
+        },
+        {
+          "name": "Font Download",
+          "url": "https://font.download/",
+          "iconUrl": "https://font.download/favicon.ico",
+          "description": "Envato ve Adobe'de bulunan bazı fontların full versiyonları bulunur."
+        },
+        {
+          "name": "Dafont Free",
+          "url": "https://www.dafontfree.io/",
+          "iconUrl": "https://www.dafontfree.io/favicon.ico",
+          "description": "Bazı ücretli fontların full versiyonları bulunur."
+        },
+        {
+          "name": "Best Fonts",
+          "url": "https://en.bestfonts.pro/",
+          "iconUrl": "https://en.bestfonts.pro/favicon.ico",
+          "description": "Bazı ücretli fontların full versiyonları bulunur."
+        },
+        {
+          "name": "Font Meme",
+          "url": "https://fontmeme.com/",
+          "iconUrl": "https://fontmeme.com/favicon.ico",
+          "description": "Dizi, film, oyun, kitap, marka vb. kullanılan fontları listeleyen bir sitedir. Font indirilmez."
+        },
+        {
+          "name": "FontBolt",
+          "url": "https://www.fontbolt.com/",
+          "iconUrl": "https://www.fontbolt.com/favicon.ico",
+          "description": "Ünlü ve marka fontları sunmaya odaklanan bir sitedir."
+        },
+        {
+          "name": "Font Squirrel",
+          "url": "https://www.fontsquirrel.com/",
+          "iconUrl": "https://www.fontsquirrel.com/favicon.ico",
+          "description": "Alternatif ücretsiz font sitesi."
+        },
+        {
+          "name": "Font Share",
+          "url": "https://www.fontshare.com/",
+          "iconUrl": "https://www.fontshare.com/favicon.ico",
+          "description": "Alternatif ücretsiz font sitesi."
+        },
+        {
+          "name": "Abstract Fonts",
+          "url": "https://www.abstractfonts.com/",
+          "iconUrl": "https://www.abstractfonts.com/favicon.ico",
+          "description": "Alternatif ücretsiz font sitesi."
+        },
+        {
+          "name": "Fonts4Free",
+          "url": "https://www.fonts4free.net/",
+          "iconUrl": "https://www.fonts4free.net/favicon.ico",
+          "description": "Alternatif ücretsiz font sitesi."
+        }
+      ]
     }
   ]
 }
