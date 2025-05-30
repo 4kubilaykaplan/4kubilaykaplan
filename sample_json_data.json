@@ -249,6 +249,24 @@
           "description": "Alternatif ücretsiz font sitesi."
         }
       ]
+    },
+    {
+      "id": "category_1748595931964",
+      "name": "AI Video",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/videoai.png",
+      "links": []
+    },
+    {
+      "id": "category_1748595986509",
+      "name": "AI Image",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/imageai.png",
+      "links": []
+    },
+    {
+      "id": "category_1748597722179",
+      "name": "Premiere & AE Asset",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/videoassets.png",
+      "links": []
     }
   ]
 }
