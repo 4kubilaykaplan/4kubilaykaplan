@@ -263,15 +263,21 @@
       "links": []
     },
     {
-      "id": "category_1748610540975",
-      "name": "AI Face Swap",
+      "id": "category_1748680060520",
+      "name": "Face Swap & Animate",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/faceswap.png",
       "links": []
     },
     {
-      "id": "category_1748597722179",
-      "name": "Premiere & AE Asset",
-      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/videoassets.png",
+      "id": "category_1748679579577",
+      "name": "AI Tools",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/aitools.png",
+      "links": []
+    },
+    {
+      "id": "category_1748679887136",
+      "name": "Premiere Pro Assets",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/prae.png",
       "links": []
     }
   ]
