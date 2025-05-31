@@ -88,13 +88,13 @@
     },
     {
       "id": "category_1748698773591",
-      "name": "Documentary Source",
+      "name": "Documentary Sources",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/kaynaklar.png",
       "links": []
     },
     {
       "id": "category_1748708404204",
-      "name": "Secondary Source",
+      "name": "Secondary Sources",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/secondary.png",
       "links": []
     },
@@ -130,7 +130,7 @@
     },
     {
       "id": "category_1748708310223",
-      "name": "AI Resource",
+      "name": "AI Resources",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/airesource.png",
       "links": []
     },
@@ -160,7 +160,7 @@
     },
     {
       "id": "category_1748697225628",
-      "name": "Commercial Resource",
+      "name": "Commercial Resources",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/royaltyfree.png",
       "links": []
     },
@@ -172,37 +172,37 @@
     },
     {
       "id": "category_1748696007130",
-      "name": "Stock Video",
+      "name": "Stock Videos",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/videostock.png",
       "links": []
     },
     {
       "id": "category_1748696112003",
-      "name": "PD Astronomy Video",
+      "name": "PD Astronomy Videos",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/spacestock.png",
       "links": []
     },
     {
       "id": "category_1748696294253",
-      "name": "PD Nature Video",
+      "name": "PD Nature Videos",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/naturestock.png",
       "links": []
     },
     {
       "id": "category_1748696213726",
-      "name": "PD Medical Video",
+      "name": "PD Medical Videos",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/stockhealth.png",
       "links": []
     },
     {
       "id": "category_1748696384431",
-      "name": "PD Video Archive",
+      "name": "PD Video Archives",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/pdarchive.png",
       "links": []
     },
     {
       "id": "category_1748696898534",
-      "name": "Stock Image",
+      "name": "Stock Images",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/stockimage .png",
       "links": []
     },
@@ -220,13 +220,13 @@
     },
     {
       "id": "category_1748697460140",
-      "name": "SVG/PNG Image",
+      "name": "SVG/PNG Images",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/vector.png",
       "links": []
     },
     {
       "id": "category_1748697372368",
-      "name": "PSD/IMG Template",
+      "name": "PSD/IMG Templates",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/template.png",
       "links": []
     },
@@ -269,7 +269,7 @@
     },
     {
       "id": "category_1748184985575",
-      "name": "Font",
+      "name": "Fonts",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/font.png",
       "links": [
         {
@@ -396,7 +396,7 @@
     },
     {
       "id": "category_1748697423073",
-      "name": "Icon",
+      "name": "Icons",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/icon.png",
       "links": []
     },
@@ -414,7 +414,7 @@
     },
     {
       "id": "category_1748708470623",
-      "name": "Mail Service",
+      "name": "Mail Services",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/mail.png",
       "links": []
     }
