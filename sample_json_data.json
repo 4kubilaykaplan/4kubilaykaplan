@@ -321,6 +321,48 @@
       "name": "PD Video Archive",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/pdarchive.png",
       "links": []
+    },
+    {
+      "id": "category_1748696898534",
+      "name": "Stock Image",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/stockimage .png",
+      "links": []
+    },
+    {
+      "id": "category_1748696957810",
+      "name": "3D Model",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/3dmodel.png",
+      "links": []
+    },
+    {
+      "id": "category_1748697010625",
+      "name": "Sound & SFX",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/sfx.png",
+      "links": []
+    },
+    {
+      "id": "category_1748697225628",
+      "name": "Commercial Resource",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/royaltyfree.png",
+      "links": []
+    },
+    {
+      "id": "category_1748697372368",
+      "name": "PSD/IMG Template",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/template.png",
+      "links": []
+    },
+    {
+      "id": "category_1748697423073",
+      "name": "Icon",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/icon.png",
+      "links": []
+    },
+    {
+      "id": "category_1748697460140",
+      "name": "SVG/PNG Image",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/vector.png",
+      "links": []
     }
   ]
 }
