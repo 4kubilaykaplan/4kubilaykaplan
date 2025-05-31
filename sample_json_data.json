@@ -363,6 +363,42 @@
       "name": "SVG/PNG Image",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/vector.png",
       "links": []
+    },
+    {
+      "id": "category_1748698473928",
+      "name": "Portal Tools",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/doctools.png",
+      "links": []
+    },
+    {
+      "id": "category_1748698517221",
+      "name": "IT Tools",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/ittools.png",
+      "links": []
+    },
+    {
+      "id": "category_1748698773591",
+      "name": "Documentary Source",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/kaynaklar.png",
+      "links": []
+    },
+    {
+      "id": "category_1748698874880",
+      "name": "Major Download",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/download.png",
+      "links": []
+    },
+    {
+      "id": "category_1748698930502",
+      "name": "Software",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/software.png",
+      "links": []
+    },
+    {
+      "id": "category_1748698966888",
+      "name": "Search Tools",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/search.png",
+      "links": []
     }
   ]
 }
