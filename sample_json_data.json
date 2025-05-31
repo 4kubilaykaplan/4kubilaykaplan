@@ -75,7 +75,7 @@
     },
     {
       "id": "category_1747361560607",
-      "name": "Portal Arşivi",
+      "name": "Portal Archive",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/archive.png",
       "links": [
         {
@@ -88,7 +88,7 @@
     },
     {
       "id": "category_1747358748819",
-      "name": "Renkler",
+      "name": "Colour",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/color.png",
       "links": [
         {
@@ -272,6 +272,18 @@
       "id": "category_1748679579577",
       "name": "AI Tools",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/aitools.png",
+      "links": []
+    },
+    {
+      "id": "category_1748693688264",
+      "name": "AI Assistants",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/asistan.png",
+      "links": []
+    },
+    {
+      "id": "category_1748693733949",
+      "name": "AI News",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/ainews.png",
       "links": []
     },
     {
