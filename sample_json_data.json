@@ -291,6 +291,36 @@
       "name": "Premiere Pro Assets",
       "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/prae.png",
       "links": []
+    },
+    {
+      "id": "category_1748696007130",
+      "name": "Stock Video",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/videostock.png",
+      "links": []
+    },
+    {
+      "id": "category_1748696112003",
+      "name": "PD Astronomy Video",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/spacestock.png",
+      "links": []
+    },
+    {
+      "id": "category_1748696294253",
+      "name": "PD Nature Video",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/naturestock.png",
+      "links": []
+    },
+    {
+      "id": "category_1748696213726",
+      "name": "PD Medical Video",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/stockhealth.png",
+      "links": []
+    },
+    {
+      "id": "category_1748696384431",
+      "name": "PD Video Archive",
+      "iconUrl": "https://raw.githubusercontent.com/4kubilaykaplan/4kubilaykaplan/master/docuicons/pdarchive.png",
+      "links": []
     }
   ]
 }
